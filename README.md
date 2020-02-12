@@ -9,5 +9,10 @@ node index.js
 ```
 The user will be prompted for a favorite color, which will be then be used as the background color for cards.
 
-DEMO:
-https://deepshikhasingh90.github.io/Responsive-porfolio-updated/) to launch the portfolio pages!
+## Technologies-Libraries
+1. Node.js 
+2. ES6+ 
+3. JavaScript
+
+## Demo
+![alt text](assets\DevProfileGenearator.gif "Demo")

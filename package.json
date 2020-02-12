@@ -1,5 +1,5 @@
 {
-  "name": "Profile-developer",
+  "name": "developer-profile-generator",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
