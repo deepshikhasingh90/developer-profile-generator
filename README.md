@@ -15,4 +15,4 @@ The user will be prompted for a favorite color, which will be then be used as th
 3. JavaScript
 
 ## Demo
-![alt text](assets\DevProfileGenearator.gif "Demo")
+![alt text](assets/DevProfileGenearator.gif "Demo")
